@@ -13,6 +13,28 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="com.yth.ai.codereview">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.platform" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="google-sceneform-tools">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="org.jetbrains.android" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
         <entry key="io.flutter">
           <value>
             <PluginData>
@@ -26,6 +48,17 @@
                   <option value="com.intellij.modules.xdebugger" />
                   <option value="org.jetbrains.android" />
                   <option value="org.jetbrains.plugins.yaml" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="it.czerwinski.intellij.wavefront">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.platform" />
                 </set>
               </option>
             </PluginData>
